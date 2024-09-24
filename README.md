@@ -26,7 +26,7 @@
 👨‍💻 here is my cv https://drive.google.com/file/d/1nL-xm-01k-IFsTyrs1nq_VQrTXnSr31w/view?usp=drivesdk
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mohamed-hussein" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussien-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mohamed-hussein-250705231" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hussien-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
